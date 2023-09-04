@@ -1,4 +1,4 @@
-# OneWayLetters
+# OneWayLinkedList
 Third assignment for algorithms and data structures lab.
 
 Alternatywną implementację list dowiązaniowych jednokierunkowych do tej
