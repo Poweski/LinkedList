@@ -11,7 +11,7 @@ pierwszego elementu/pustej listy. Dodatkowo, jako, że strażnik dla zadanej lis
 się nigdy nie zmienia, można łatwo porównywać z nim inne węzły za pomocą
 adresów (==).
 
-Zaimplementuj i przetestuj klasę OneWayLinkedListWithSentinel<E>
+Zaimplementuj i przetestuj klasę OneWayLinkedList<E>
 zgodną z interfejsem IList<E> podanym na wykładzie. Podczas
 implementacji pomiń metodę iterator(). Podczas sprawdzania
 poprawności uwzględnij przypadki: pustej listy, listy jednoelementowej,
